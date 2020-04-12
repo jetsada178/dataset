@@ -1,0 +1,10 @@
+เราจะไปเดินเล่นที่[LOCATION]หนองคาย[/LOCATION] พร้อมกับนั่งเรือข้ามไป[LOCATION]ประเทศลาว[/LOCATION]
+ผมเรียนอยู่ที่[LOCATION]มหาวิทยาลัยขอนแก่น วิทยาเขตหนองคาย[/LOCATION]
+ผมเป็นนักศึกษา[ORGANIZATION]คณะวิทยาศาสตร์ประยุกต์และวิศวกรรมศาสตร์[/ORGANIZATION] [ORGANIZATION]มหาวิทยาลัยขอนแก่น วิทยาเขตหนองคาย[/ORGANIZATION]
+ผู้อพยพจาก[LOCATION]อเมริกากลาง[/LOCATION]มุดกำแพงเข้า[LOCATION]สหรัฐ[/LOCATION]
+ประธาน [ORGANIZATION]สนช.[/ORGANIZATION] เชื่อ [ORGANIZATION]สนช.[/ORGANIZATION]ชุดนี้มีคุณสมบัติเป็นส.ว.ได้
+[ORGANIZATION]กกร.[/ORGANIZATION]ฟันธงปีนี้เศรษฐกิจโตร้อยละ 4.4
+นักวิจัยจากทุนวิจัย [ORGANIZATION]สกว.[/ORGANIZATION] วิจัยถึงต้นตอของปัญหาหมอกควันที่เกิดขึ้นในพื้นที่[LOCATION]ภาคเหนือ[/LOCATION] ซึ่งจะเป็นฐานในการสร้างสรรค์
+[LOCATION]ฮ่องกง[/LOCATION]กลายเป็นเมืองในหมอก
+[LOCATION]แคลิฟอร์เนีย[/LOCATION]ตั้งเป้ามีรถไฟฟ้า 5 ล้านคันภายในปี 2573
+[ORGANIZATION]กรมควบคุมมลพิษ[/ORGANIZATION]แนะวิธีแก้น้ำเสียจากสีย้อมผ้าดำ
